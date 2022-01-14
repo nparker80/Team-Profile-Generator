@@ -89,10 +89,8 @@ teamProfileHTML = (data) => {
         
     }
 
-    // joining strings 
     const employeeCards = pageArray.join('')
 
-    // return to generated page
     const generateTeam = generateTeamPage(employeeCards); 
     return generateTeam;
 
@@ -136,5 +134,4 @@ const generateTeamPage = function (employeeCards) {
 `;
 }
 
-// export to index
 module.exports = teamProfileHTML; 
