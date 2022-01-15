@@ -61,7 +61,7 @@ node index.js
 [Portfolio Repository](https://github.com/nparker80/Team-Profile-Generator)
 
 ## License 
-This project is license under MIT
+This project is licensed under MIT
 
 ## Credits
 
