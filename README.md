@@ -4,7 +4,7 @@
 # Team-Profile-Generator
 <div>
    <p>
-    View walkthrough video here - [Screencastify](https://drive.google.com/file/d/1MMS4D27ymI7NKdM1ntvqcqut_ia3XT7F/view)<br>
+    View walk through video here - [Video](https://drive.google.com/file/d/1tWZNaLaSKDgV-UohblVVEdnwex9nPzDj/view)
   </p>
 </div>
 
@@ -14,7 +14,7 @@
 * [Tests](#tests)
 * [Built With](#built-with)
 * [License](#license)
-* [Contributing](#contributing)
+* [Credits](#credits)
 * [Questions](#questions)
 
 ## Description:
@@ -60,13 +60,16 @@ node index.js
 
 [Portfolio Repository](https://github.com/nparker80/Team-Profile-Generator)
 
+## License 
+This project is license under MIT
+
 ## Credits
 
 List of Contributors:
 
 1. Najla Parker - Node, Javascript, NPM, HTMl, CSS
 
-## Contact Info
+## Questions
 
 Najla Parker - najla08@me.com [![LinkedIn][linkedin-shield]][linkedin-url-naj] [![GitHub][github-shield]][github-url-naj]
 
