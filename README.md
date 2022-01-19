@@ -4,7 +4,7 @@
 # Team-Profile-Generator
 <div>
    <p>
-    View application functionality and successful tests. <a href="https://drive.google.com/file/d/1MMS4D27ymI7NKdM1ntvqcqut_ia3XT7F/view"> Walkthrough Video</a>
+    View application functionality and successful tests. <a href="https://watch.screencastify.com/v/yTXiIEcbj5lGG4ojCebv"> Walkthrough Video</a>
   </p>
 </div>
 
