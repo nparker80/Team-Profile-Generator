@@ -7,7 +7,7 @@
     View application functionality and successful tests. <a href="https://watch.screencastify.com/v/yTXiIEcbj5lGG4ojCebv"> Walkthrough Video</a>
   </p>
    
-[Deployed Application](https://nparker80.github.io/Team-Profile-Generator/)
+[GitHub Pages](https://nparker80.github.io/Team-Profile-Generator/)
    
 [GitHub Repository](https://github.com/nparker80/Team-Profile-Generator)
 </div>
