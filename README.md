@@ -6,6 +6,10 @@
    <p>
     View application functionality and successful tests. <a href="https://watch.screencastify.com/v/yTXiIEcbj5lGG4ojCebv"> Walkthrough Video</a>
   </p>
+   
+[Deployed Application](https://nparker80.github.io/Team-Profile-Generator/)
+   
+[GitHub Repository](https://github.com/nparker80/Team-Profile-Generator)
 </div>
 
 ## Table of Contents
@@ -55,10 +59,6 @@ node index.js
 - [Javascript](https://www.javascript.com)
 - [HTML](https://en.wikipedia.org/wiki/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)
-
-## Project Link
-
-[Portfolio Repository](https://github.com/nparker80/Team-Profile-Generator)
 
 ## License 
 This project is licensed under MIT
